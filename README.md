@@ -2,7 +2,8 @@
 📂 NullClass-Internship
 
  ┣ 📂 Task1_Innovation
- ┃ ┣ 📜 innovation.ipynb
+ 
+ ┃| ┣ 📜 innovation.ipynb
  ┃ ┣ 📜 model.h5
  ┃ ┣ 📜 dataset/
  ┃ ┣ 📜 GUI.py
